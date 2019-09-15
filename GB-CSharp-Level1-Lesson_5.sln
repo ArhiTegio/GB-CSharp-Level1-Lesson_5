@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_LoginAdvanceAndCheckIt", "1_LoginAdvanceAndCheckIt\1_LoginAdvanceAndCheckIt.csproj", "{DE6DD16D-780C-43DD-B67B-4E4F14251E8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Message", "2_Message\2_Message.csproj", "{4DD07474-273C-4FE6-A123-FCBA9D8F924A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_СheckingPermutationsLetters", "3_СheckingPermutationsLetters\3_СheckingPermutationsLetters.csproj", "{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DE6DD16D-780C-43DD-B67B-4E4F14251E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE6DD16D-780C-43DD-B67B-4E4F14251E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE6DD16D-780C-43DD-B67B-4E4F14251E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD07474-273C-4FE6-A123-FCBA9D8F924A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD07474-273C-4FE6-A123-FCBA9D8F924A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD07474-273C-4FE6-A123-FCBA9D8F924A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD07474-273C-4FE6-A123-FCBA9D8F924A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
