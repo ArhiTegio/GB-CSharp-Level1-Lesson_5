@@ -1,0 +1,9 @@
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\obj\Debug\4_TaskOfTheExam.csproj.CoreCompileInputs.cache
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\bin\Debug\4_TaskOfTheExam.exe.config
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\bin\Debug\4_TaskOfTheExam.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\bin\Debug\4_TaskOfTheExam.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\bin\Debug\LibraryFastDecisions.dll
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\obj\Debug\4_TaskOfTheExam.csproj.CopyComplete
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\obj\Debug\4_TaskOfTheExam.exe
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\obj\Debug\4_TaskOfTheExam.pdb
+D:\Программирование\Проекты\GB-CSharp-Level1-Lesson_5\4_TaskOfTheExam\obj\Debug\4_TaskOfTheExam.csprojAssemblyReference.cache

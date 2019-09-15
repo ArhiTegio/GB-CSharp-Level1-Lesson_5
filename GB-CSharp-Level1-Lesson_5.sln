@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Message", "2_Message\2_Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_СheckingPermutationsLetters", "3_СheckingPermutationsLetters\3_СheckingPermutationsLetters.csproj", "{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_TaskOfTheExam", "4_TaskOfTheExam\4_TaskOfTheExam.csproj", "{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C11FD6BF-51AC-441C-92FE-ABAF0CA71E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
