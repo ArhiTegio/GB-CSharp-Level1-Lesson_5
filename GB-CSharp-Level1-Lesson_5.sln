@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_СheckingPermutationsLett
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_TaskOfTheExam", "4_TaskOfTheExam\4_TaskOfTheExam.csproj", "{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_BelieveUnbelievers", "5_BelieveUnbelievers\5_BelieveUnbelievers.csproj", "{1356055B-A6B7-4D93-A68C-9C425DC13200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4EB32DE-3FFC-4C16-AA8B-8BC6576E95B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1356055B-A6B7-4D93-A68C-9C425DC13200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1356055B-A6B7-4D93-A68C-9C425DC13200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1356055B-A6B7-4D93-A68C-9C425DC13200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1356055B-A6B7-4D93-A68C-9C425DC13200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
